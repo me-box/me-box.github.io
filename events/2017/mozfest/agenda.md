@@ -2,11 +2,11 @@
 
 ## Introduction
 
-12:00-12.30 Registration, Coffee (team)
+12:00-12.30 Registration, Coffee
 
-12:30-12:45 Welcome to Databox (Hamed)
+12:30-12:45 Welcome to Databox
 
-12:45-13:00 Introduction to the platform and what has changed (Tosh)
+12:45-13:00 Introduction to the platform and what has changed
 
 ## Lunch
 
@@ -14,23 +14,19 @@
 
 ## Activities
 
-13:30-17:00 Break out session involving small groups or individual based on the demos. Participants choose from two activities:
+13:30-17:00 Break out session involving small groups or individuals. Participants choose from four activities:
 
-##### Building an app with the SDK (Tom)
+##### [Building an app with the SDK](http://tutorial.iotdatabox.com/)
 
-[Futher details](http://tutorial.iotdatabox.com/)
 
-##### Building apps in Python (Poonam)
+##### [Building apps in Python](https://me-box.github.io/events/2017/mozfest/agenda/python-activity.md)
 
-[Further details](https://github.com/me-box/admin/blob/master/events/2017/driver-app.md)
 
-##### Hacking the core of Databox (Tosh, Yousef, Qi)
+##### [Hacking the core of Databox](https://me-box.github.io/events/2017/mozfest/agenda/core-activity.md)
 
-[Further details](https://github.com/me-box/admin/blob/master/events/2017/HackingTheCore.md)
 
-##### App design session (James)
+##### App design session
 
-Further details: brainstorming exercise to inspire from top-10 across app stores; things that should be rewritten in Databox style; email to go out beforehand priming
 
 ## Show and tell
 
@@ -38,7 +34,7 @@ Further details: brainstorming exercise to inspire from top-10 across app stores
 
 ## Wrap up
 
-17:45-18:00 Closing remarks (Hamed)
+17:45-18:00 Closing remarks
 
 ## Social (optional)
 
