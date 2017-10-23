@@ -19,10 +19,10 @@
 ##### [Building an app with the SDK](http://tutorial.iotdatabox.com/)
 
 
-##### [Building apps in Python](https://me-box.github.io/events/2017/mozfest/python-activity.md)
+##### [Building apps in Python](https://me-box.github.io/events/2017/mozfest/python-activity)
 
 
-##### [Hacking the core of Databox](https://me-box.github.io/events/2017/mozfest/core-activity.md)
+##### [Hacking the core of Databox](https://me-box.github.io/events/2017/mozfest/core-activity)
 
 
 ##### App design session
