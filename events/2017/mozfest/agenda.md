@@ -1,5 +1,7 @@
 # MozFest 2017 agenda
 
+To be prepared for the day please read the [following](https://me-box.github.io/events/2017/mozfest/prep).
+
 ## Introduction
 
 12:00-12.30 Registration, Coffee

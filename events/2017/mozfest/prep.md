@@ -1,6 +1,6 @@
 ## To be prepared for the day
 
-You need a computer capable of running Docker. Cloning our repo uses approximatley 2GB of data so could you please do this before attending the venue to avoid overloading the WiFi.
+You need a computer capable of running Docker. Cloning our repo uses approximately 2GB of data so could you please do this before attending the venue to avoid overloading the WiFi.
 
 Relvant links:
 
