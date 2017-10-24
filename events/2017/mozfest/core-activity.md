@@ -32,6 +32,6 @@ All data leaving the Databox goes through the export service. But there is curre
 
 List the available data sources in a nice UI would be beneficial for development as well as end users.
  
-##### Improving unit and integration tests (Intergration testing / phantomjs / ect)
+##### Improving unit and integration tests (Intergration testing / phantomjs / etc)
 
 Currently, tests only exercise the API not the UI ([see](https://github.com/me-box/databox/blob/master/TESTING.md)) so any improvements would be greatly received.
