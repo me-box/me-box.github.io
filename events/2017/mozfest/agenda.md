@@ -20,15 +20,19 @@ To be prepared for the day please read the [following](https://me-box.github.io/
 
 ##### [Building an app with the SDK](http://tutorial.iotdatabox.com/)
 
+Skills: basic command-line and terminal
 
 ##### [Building apps in Python](https://me-box.github.io/events/2017/mozfest/python-activity)
 
+Skills: basic Python knowledge, command-line development experience
 
 ##### [Hacking the core of Databox](https://me-box.github.io/events/2017/mozfest/core-activity)
 
+Skills: Suitable for more experienced devs
 
 ##### App design session
 
+Skills: Accessible to all
 
 ## Show and tell
 
