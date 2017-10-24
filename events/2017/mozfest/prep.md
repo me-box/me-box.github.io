@@ -36,6 +36,6 @@ In different terminal
  
 
 
-Social:
+## Social:
 
 If you are interested in attending dinner after the event please let someone from the Databox team know during lunch to allow time to book a table at the restaurant. Please note, the project is not able to cover the costs of the social event so attendees would be expected to pay for what they have.
