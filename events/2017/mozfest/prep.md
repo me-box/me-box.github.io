@@ -8,7 +8,7 @@ You need a computer capable of running Docker. Cloning our repo uses approximate
 ## Things to do before the session:
 Warning this will pull approximately 2Gb of data.
  
-ALL: install [Docker](https://www.docker.com/)
+ALL: install [Docker](https://www.docker.com/) and [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
  
 Hacking the core:
 git clone https://github.com/me-box/databox.git
