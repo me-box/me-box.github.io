@@ -2,11 +2,39 @@
 
 You need a computer capable of running Docker. Cloning our repo uses approximately 2GB of data so could you please do this before attending the venue to avoid overloading the WiFi.
 
-Relvant links:
-
-##### [Docker](https://www.docker.com/)
-
 ##### [Databox repo](https://github.com/me-box/databox.git)
+
+
+## Things to do before the session:
+Warning this will pull approximately 2Gb of data.
+ 
+ALL: install [Docker](https://www.docker.com/)
+ 
+Hacking the core:
+git clone https://github.com/me-box/databox.git
+cd databox
+./databox-start dev
+ 
+In different terminal
+./databox-install-component driver-os-monitor
+ 
+Building an app with the SDK:
+git clone https://github.com/me-box/databox.git
+cd databox
+./databox-start sdk
+ 
+In different terminal
+ ./databox-install-component driver-os-monitor
+ 
+Building an app with the SDK:
+git clone https://github.com/me-box/databox.git
+cd databox
+./databox-start
+ 
+In different terminal
+./databox-install-component driver-os-monitor
+ 
+
 
 Social:
 
