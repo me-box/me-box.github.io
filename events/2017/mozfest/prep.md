@@ -7,13 +7,14 @@ development. Also note that cloning our repo and running Databox for the first
 time will consume approximately 2GB of data -- we ask that you please do this
 before arriving at the venue to avoid overloading the Wi-Fi.
 
-Everybody needs to install
+Everybody taking part in the development oriented sessions will need to install:
 
   * [Docker](https://docs.docker.com/engine/installation/#desktop), and
   * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 
-### Session "Hacking the Core"
+### Session "Hacking the core"
+
 ```bash
 git clone https://github.com/me-box/databox.git
 cd databox
@@ -26,6 +27,7 @@ In a different terminal
 ```
 
 ### Session "Building an app with the SDK"
+
 ```bash
 git clone https://github.com/me-box/databox.git
 cd databox
@@ -38,6 +40,7 @@ In a different terminal
 ```
 
 ### Session "Building apps with Python"
+
 ```bash
 git clone https://github.com/me-box/databox.git
 cd databox
@@ -52,6 +55,6 @@ In a different terminal
 ## Social
 
 If you are interested in attending dinner after the event please let [Dr John
-Moore](jm2170@cl.cam.ac.uk) from the Databox team know during lunch to allow
-time to book a table at the restaurant. Unfortunately the project is unable to
-cover the costs of dinner so attendees will need to pay individually.
+Moore](mailto:jm2170@cl.cam.ac.uk) from the Databox team know during lunch to
+allow time to book a table at the restaurant. Unfortunately the project is
+unable to cover the costs of dinner so attendees will need to pay individually.
