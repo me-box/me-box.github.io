@@ -1,61 +1,57 @@
-## To be prepared for the day
+## To prepare for the day
 
-You need a computer capable of running Docker. Cloning our repo uses
-approximately 2GB of data so could you please do this before attending the venue
-to avoid overloading the WiFi.
-
-##### [Databox repo](https://github.com/me-box/databox.git)
-
-
-## Things to do before the session:
-
-**Warning**: this will pull approximately 2Gb of data.
+Databox is composed of many components running as Docker containers, and so you
+will need to bring a computer capable of running
+[Docker](https://www.docker.com) if you wish to run Databox or do any
+development. Also note that cloning our repo and running Databox for the first
+time will consume approximately 2GB of data -- we ask that you please do this
+before arriving at the venue to avoid overloading the Wi-Fi.
 
 Everybody needs to install
 
-  * [Docker](https://www.docker.com/), and
+  * [Docker](https://docs.docker.com/engine/installation/#desktop), and
   * [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 
-### Hacking the core
+### Session "Hacking the Core"
 ```bash
 git clone https://github.com/me-box/databox.git
 cd databox
 ./databox-start dev
 ```
 
-In different terminal
+In a different terminal
 ```bash
 ./databox-install-component driver-os-monitor
 ```
 
-### Building an app with the SDK
+### Session "Building an app with the SDK"
 ```bash
 git clone https://github.com/me-box/databox.git
 cd databox
 ./databox-start sdk
 ```
 
-In different terminal
+In a different terminal
 ```bash
 ./databox-install-component driver-os-monitor
 ```
 
-### Building an app with Python
+### Session "Building apps with Python"
 ```bash
 git clone https://github.com/me-box/databox.git
 cd databox
 ./databox-start
 ```
 
-In different terminal
+In a different terminal
 ```bash
 ./databox-install-component driver-os-monitor
 ```
 
-## Social:
+## Social
 
-If you are interested in attending dinner after the event please let someone
-from the Databox team know during lunch to allow time to book a table at the
-restaurant. Please note, the project is not able to cover the costs of the
-social event so attendees would be expected to pay for what they have.
+If you are interested in attending dinner after the event please let [Dr John
+Moore](jm2170@cl.cam.ac.uk) from the Databox team know during lunch to allow
+time to book a table at the restaurant. Unfortunately the project is unable to
+cover the costs of dinner so attendees will need to pay individually.
