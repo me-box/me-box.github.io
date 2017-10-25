@@ -16,7 +16,7 @@ The [export-service](https://github.com/me-box/core-export-service) and [store-t
  
 ##### Developing for the new ZMQ-based store  (Skills: ReasonML / Golang / NodeJs / Binary Protocols)
    
-A ReasonML based client and server exists ([jptmoore/zest](https://github.com/jptmoore/zest)) and a Databox store is implemented ([/me-box/store-timeseries-zmq](https://github.com/me-box/store-timeseries-zmq)) for testing against. There is a partial Golang client available ([toshbrown/goZestClient](https://github.com/Toshbrown/goZestClient)). Creating a nodejs client would also be a useful task. Building apps and driver to test this new store or any help testing and/or benchmarking would be fantastic.
+A ReasonML based client and server exists ([jptmoore/zest](https://jptmoore.github.io/zest/)) and a Databox store is implemented ([/me-box/store-timeseries-zmq](https://github.com/me-box/store-timeseries-zmq)) for testing against. There is a partial Golang client available ([toshbrown/goZestClient](https://github.com/Toshbrown/goZestClient)). Creating a nodejs client would also be a useful task. Building apps and driver to test this new store or any help testing and/or benchmarking would be fantastic.
  
 
 ##### Designing an Image API for the new store. (Skills: API design, Exif, any language)
