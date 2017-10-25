@@ -1,56 +1,48 @@
 # MozFest 2017 agenda
 
-To be prepared for the day please read the [following](https://me-box.github.io/events/2017/mozfest/prep).
+To be prepared for the day please [follow these
+instructions](https://me-box.github.io/events/2017/mozfest/prep).
 
-## Introduction
+### Introduction
 
-12:00-12.30 Registration, Coffee
+**12:00-12.30** Registration, Coffee
 
-12:30-12:45 Welcome to Databox
+**12:30-12:45** Welcome to Databox
 
-12:45-13:00 Introduction to the platform and what has changed
+**12:45-13:00** Introduction to the platform and what has changed
 
-## Lunch
+**13:00-13:30** Buffet Lunch
 
-13:00-13:30 Buffet Lunch
+### Activities
 
-## Activities
-
-13:30-17:00 Break out session involving small groups or individuals. Participants choose from four activities:
-
-##### [Building an app with the SDK](http://tutorial.iotdatabox.com/)
-
-Skills: basic command-line and terminal
-
-##### [Building apps in Python](https://me-box.github.io/events/2017/mozfest/python-activity)
-
-Skills: basic Python knowledge, command-line development experience
-
-##### [Hacking the core of Databox](https://me-box.github.io/events/2017/mozfest/core-activity)
-
-Skills: Suitable for more experienced devs
+**13:30-17:00** Break out session involving small groups or individuals, chosen
+from four activities:
 
 ##### App design session
 
-Skills: Accessible to all
+_Assumed Skills_: Open to all!
 
-## Show and tell
+##### [Building an app with the SDK](http://tutorial.iotdatabox.com/)
 
-17:00-17:45 Includes prizes
+_Assumed Skills_: basic command-line and terminal usage
 
-## Wrap up
+##### [Building apps in Python](https://me-box.github.io/events/2017/mozfest/python-activity)
 
-17:45-18:00 Closing remarks
+_Assumed Skills_: basic Python knowledge and command-line development experience
+
+##### [Hacking the core of Databox](https://me-box.github.io/events/2017/mozfest/core-activity)
+
+_Assumed Skills_: for more experienced developers; useful skills would include
+familiarity with Docker, server-side web development, 0MQ, Python/Node/OCaml,
+testing, PhantomJS, and more
+
+### Wrap up
+
+**17:00-17:45** Show & Tell, including prizes
+
+**17:45-18:00** Closing remarks
 
 ## Social (optional)
 
-Lupita Mexican Restaurant
-
-[http://www.lupita.co.uk/]()
-
-
-
-
-
-
-
+Depending on numbers, perhaps [Lupita Mexican
+Restaurant](http://www.lupita.co.uk/) or similar place nearby.
