@@ -28,9 +28,6 @@ The store supports json, text and binary data being stored as key/values. A time
 
 All data leaving the Databox goes through the export service. But there is currently no way to inspect this data. Adding an interface to let people inspect what is being exported from their databox would be a valuable contribution.
   
-##### Add a UI to the data stores (Skills: OCaml + web)
-
-List the available data sources in a nice UI would be beneficial for development as well as end users.
  
 ##### Improving unit and integration tests (Intergration testing / phantomjs / etc)
 
