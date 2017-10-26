@@ -38,9 +38,9 @@ testing, PhantomJS, and more
 
 ### Wrap up
 
-**17:00-17:45** Show & Tell, including prizes
+**17:00-16:30** Show & Tell, including prizes
 
-**17:45-18:00** Closing remarks
+**17:00** Closing remarks
 
 ## Social (optional)
 
