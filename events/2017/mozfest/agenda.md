@@ -38,7 +38,7 @@ testing, PhantomJS, and more
 
 ### Wrap up
 
-**17:00-16:30** Show & Tell, including prizes
+**16:30-16:45** Show & Tell, including prizes
 
 **17:00** Closing remarks
 
